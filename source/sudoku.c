@@ -1,8 +1,5 @@
 #include <stdio.h>
-
-#define N 9
-#define HORIZ 0
-#define VERTI 1
+#include "sudoku.h"
 
 int grid[N][N];
 int filling = 0;
